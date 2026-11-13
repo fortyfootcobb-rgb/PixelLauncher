@@ -7,7 +7,7 @@
         android:allowBackup="true"
         android:label="Pixel Stock Launcher"
         android:supportsRtl="true"
-        android:theme="@android:style/Theme.DeviceDefault.NoActionBar.Wallpaper">
+        android:theme="@android:style/Theme.DeviceDefault.Wallpaper.NoTitleBar">
         <activity
             android:name=".MainActivity"
             android:clearTaskOnLaunch="true"
